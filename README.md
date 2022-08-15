@@ -8,7 +8,7 @@ Não repetir código<br>
 [] if/else (elseif)<br>
 [] Operadores comparativos<br>
 
-(maior que)<br>
+> (maior que)<br>
 < (menor que)<br>
 = (maior ou igual a)<br>
 <= (menor ou igual a)<br>
