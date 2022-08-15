@@ -1,16 +1,16 @@
 Nesse programa aprendi sobre:
 
 Fluxos da aplicação<br>
-Caminhos lógicos baseado em algum dado ou informação
-Boas práticas na programação
-Não repetir código
-[] Tipo de dado: Boolean (true | false)
-[] if/else (elseif)
-[] Operadores comparativos
+Caminhos lógicos baseado em algum dado ou informação<br>
+Boas práticas na programação<br>
+Não repetir código<br>
+[] Tipo de dado: Boolean (true | false)<br>
+[] if/else (elseif)<br>
+[] Operadores comparativos<br>
 
-(maior que)
-< (menor que)
-= (maior ou igual a)
-<= (menor ou igual a)
-== (igual a)
-!= (diferente de)
+(maior que)<br>
+< (menor que)<br>
+= (maior ou igual a)<br>
+<= (menor ou igual a)<br>
+== (igual a)<br>
+!= (diferente de)<br>
